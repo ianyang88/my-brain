@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "timestamp": "2026-03-17T01:18:16Z",
+  "machine_id": "946c5043",
+  "machine_name": "CloudMagic",
+  "os_type": "windows",
+  "declarative": {
+    "claude_md": null,
+    "rules": {}
+  },
+  "procedural": {
+    "skills": {},
+    "agents": {},
+    "output_styles": {}
+  },
+  "experiential": {
+    "auto_memory": {},
+    "agent_memory": {}
+  },
+  "environmental": {
+    "settings": null,
+    "keybindings": null,
+    "mcp_servers": {}
+  },
+  "shared": {
+    "skills": {},
+    "agents": {},
+    "rules": {}
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "machines": {
+    "946c5043": {
+      "name": "CloudMagic",
+      "os": "windows",
+      "registered_at": "2026-03-17T01:15:51Z",
+      "last_sync": "2026-03-17T01:15:51Z",
+      "projects": [
+        {
+          "encoded": "C--Users-Ian",
+          "name": "Ian"
+        },
+        {
+          "encoded": "c--Users-Ian-android-app-cardsample",
+          "name": "cardsample"
+        },
+        {
+          "encoded": "C--Users-Ian-baolidoc",
+          "name": "baolidoc"
+        },
+        {
+          "encoded": "C--Users-Ian-Desktop",
+          "name": "Desktop"
+        },
+        {
+          "encoded": "C--Users-Ian-Documents-agentclaudeopenclaw",
+          "name": "agentclaudeopenclaw"
+        },
+        {
+          "encoded": "C--Users-Ian-Documents-m2",
+          "name": "m2"
+        },
+        {
+          "encoded": "C--Users-Ian-finance",
+          "name": "finance"
+        },
+        {
+          "encoded": "c--Users-Ian-mem0",
+          "name": "mem0"
+        },
+        {
+          "encoded": "C--Users-Ian-projects------USB-------",
+          "name": "projects---USB---"
+        },
+        {
+          "encoded": "c--Users-Ian-xiaozhi-esp32-server",
+          "name": "server"
+        },
+        {
+          "encoded": "C--Users-Ian-znppt",
+          "name": "znppt"
+        }
+      ]
+    }
+  }
+}
